@@ -9,3 +9,9 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git config](./commands/Config.md)
 - [git add](./commands/Add.md)
 - [git commit](./commands/Commit.md)
+## Git Commands
+- [git config](./commands/Congif.md)
+- [git init](./commands/Init.md)
+- [git add](./commands/Add.md)
+- [git commit](./commands/Commit/md)
+- [git remote](./commands/Remote.md)
