@@ -11,6 +11,7 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git commit](./commands/Commit.md)
 ## Git Commands
 - [git push](./commands/Push.md)
+- [git pull](./commands/Pull.md)
 - [git config](./commands/Congif.md)
 - [git init](./commands/Init.md)
 - [git add](./commands/Add.md)
